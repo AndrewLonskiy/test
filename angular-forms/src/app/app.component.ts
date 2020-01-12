@@ -39,7 +39,7 @@ export class AppComponent implements OnInit {
 
   setCapital() {
     const cityMap = {
-      ru: 'Москва',
+      ru: 'Львов',
       ua:'Киев',
       by: 'Минск'
     }
